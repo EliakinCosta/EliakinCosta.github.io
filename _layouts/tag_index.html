@@ -7,8 +7,8 @@ layout: default
 <div class="posts-list">
   {% for post in site.posts %}
   {% for tag in post.tags %}
-  {% if page.visible == true %}
   {% if tag == page.tag %}
+  {% if post.visible == true %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
       <h3 class="post-title">{{ post.title }}</h3>
