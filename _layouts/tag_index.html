@@ -8,7 +8,6 @@ layout: default
   {% for post in site.posts %}
   {% for tag in post.tags %}
   {% if tag == page.tag %}
-  {% if post.visible == 1 %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
       <h3 class="post-title">{{ post.title }}</h3>
@@ -36,7 +35,6 @@ layout: default
       {% endfor %}
     </div>
   </article>
-  {% endif %}
   {% endif %}
   {% endfor %}
   {% endfor %}
