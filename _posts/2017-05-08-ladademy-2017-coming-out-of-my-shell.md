@@ -59,7 +59,7 @@ My work in the LaKademy was basically:
 
 <div style="vertical-align:middle; text-align:center">        
   <img src="/img/me_and_sandro.jpg" width="600">
-  <figcaption><i>Me and Sandro working on Meg.</i></figcaption>
+  <figcaption><i>I and Sandro working on Meg.</i></figcaption>
 </div>
 
 Yeah, time really goes fast and the LaKademy 2017 is over, but I'm happy to meet the people behind the computers and be closer to the community. Until the next week, GSoC is waiting for me. See ya!!
