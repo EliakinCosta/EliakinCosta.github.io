@@ -4,7 +4,6 @@ title: LaKademy 2017
 color: blue
 subtitle: Coming out of my shell
 bigimg: /img/group_photo.jpg
-published: false
 tags: ['KDE','LaKademy 2017','Krita']
 ---
 
