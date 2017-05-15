@@ -2,12 +2,12 @@
 layout: post
 title: LaKademy 2017
 color: blue
-subtitle: Coming out of my shell
+subtitle: Coming out of my shell.
 bigimg: /img/group_photo.jpg
 tags: ['KDE','LaKademy 2017','Krita']
 ---
 
-Hi Everyone, is everything ok? I hope so ^-^
+Hi Everyone, is everything ok? I hope so. ^-^
 
 I'm here for the first time to talk about my first participation in a sprint event and try to keep coming out of my shell. To clarify this, I have to back in time...
 
